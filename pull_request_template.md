@@ -1,23 +1,23 @@
 ## 🔘Part
 
-- [x] FE
+- [x] FE/BE
 
 <br/>
 
-## PR Type
+## PR 종류
 What kind of change does this PR introduce?
 
 <!-- Please check the one that applies to this PR using "x". -->
 
-- [ ] Bugfix
-- [ ] Feature
-- [ ] Code style update (formatting, local variables)
-- [ ] Refactoring (no functional changes, no api changes)
-- [ ] Build related changes
-- [ ] CI related changes
-- [ ] Documentation content changes
-- [ ] angular.io application / infrastructure changes
-- [ ] Other... Please describe:
+- [ ] 버그 수정
+- [ ] 기능
+- [ ] 스타일 (formatting, local variables)
+- [ ] 리팩토링 (no functional changes, no api changes)
+- [ ] 개발 관련 변경(functional changes, api changes)
+- [ ] 통합 관련 변경
+- [ ] 문서
+- [ ] 인프라스트럭쳐
+- [ ] 그 외... Please describe:
 
 <br/>
 
