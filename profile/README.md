@@ -108,6 +108,10 @@
 		<li> <img src="WireFrame.png" width="50%"> <br> 
 			<b> <a href="https://www.figma.com/design/v0zkPv187KX5iAtcJvVVM6/12%EC%89%BD%EC%86%8C?node-id=0-1&t=5BL4KGdNzo9ESjE3-1"> UI Wireframe </a> </b> </li>
 		<li> <b> FRD </b> </li>
+		<li> <b> 종합 설계 수업 중 발표 자료 </b> <ul> 
+			<li> <a href="https://drive.google.com/file/d/1vWdn5HmQHapiD-9cr7NEcEEaKaIIOe1Z/view?usp=sharing">중간 발표</a> </li>
+			<li> <a href="https://drive.google.com/file/d/16YtYWO3oE1WHBUoNOHxUGMxsvIDFhwx8/view?usp=sharing">최종 발표</a> </li> </ul>
+		</li>
 	</ol>
 </p>
 
