@@ -26,7 +26,7 @@
 		</li>
 		<li><a href="#opensource">오픈 소스 프로젝트로서의 12쉽소</a><ol>
 				<li><a href="#possibility">도입 및 활용 가능성</a></li>
-				<li><a href="#manual-guide">설치 가이드</a></li>
+				<li><a href="#install">설치 가이드</a></li>
 				<li><a href="#contribute">기여 가이드</a></li>
 			</ol></li>
 	</ol>
@@ -165,7 +165,7 @@
 		<li> 비영리기관 : 사회 취약계층 지원 프로그램에 쉽게 통합하여 이력서 작성 교육을 제공 </li>
 	</ul>
 </p>
-<h3 id="manual-guide">설치 가이드</h3>
+<h3 id="install">설치 가이드</h3>
 <h3 id="contribute">기여 가이드</h3>
 
 
