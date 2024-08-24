@@ -13,7 +13,7 @@
 		</li>
 		<li><a href="develop">개발 진행</a> <ol>
 			<li><a href="#structure">기술적 구조</a></li>
-			<li><a href="#documents">관련 산출물</a></li>
+			<li><a href="#documents">산출물</a></li>
 			</ol>
 		</li>
 	</ol>
@@ -76,7 +76,7 @@
 	</ul>
 </p>
 
-<h4 id="documents"> 관련 산출물 </h3>
+<h4 id="documents"> 산출물 </h3>
 <p>
 	<ol>
 		<li> <b> <a href="https://www.figma.com/design/KkZ2lSWDFk2kUNPaW08VKe/%EC%9D%B4%EB%A0%A5%EC%84%9C-%2F-Flow-Chart?node-id=1-223&t=BXzbot8PLdQ2gWqF-1"> User Flow </a> </b> </li>
