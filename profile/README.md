@@ -1,12 +1,19 @@
-## Hi there 👋
+ 
+## 123처럼 쉬운 이력서 만들기, 12쉽소(일이쉽소)
 
-<!--
+목차
+서비스 개요
+실현 계획 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+서비스 개요 
+“1, 2, 3처럼 쉬운 이력서 만들기"를 모토로, 디지털 취약계층을 대상으로 한 이력서 생성 서비스. 
+대화형 UI를 통해 정보를 간단하고 편리하게 제공하면, 생성형 AI와 결합된 이력서를 최종적으로 산출
+해당 이력서를 모바일 웹 페이지 형식 혹은 실제 출력물 형태로 빠르게 공유 가능
+1-1.  서비스 기획 배경
+내적 동기 : 사회적 문제와 밀접하게 맞닿아 있는 프로젝트를 진행하고 싶은 구성원들의 의지
+외적 동기 
+ㄱ. 노인층 인구가 증가하면서 실버 일자리와 관련된 문제가 대두.
+ㄴ. 일자리에 꼭 필요한 것 중에 하나가 이력서.
+ㄷ. 각종 공공기관에서 노년층을 위한 이력서 작성 코칭을 진행하고 있을 정도로 이력서 작성에 어려움을 겪는 노인들이 많다.
+	1-2. 구성원 : 4명의 한국외국어대학교 Software&AI 이중전공 학생들로 구성 
+이승용(언어인지과학과, 팀장), 이하영(체코-슬로바키아어과), 공예진(브라질학과), 정민서 (GBT학부)
