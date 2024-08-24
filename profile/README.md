@@ -73,10 +73,10 @@
 		<li> <b>구성인원</b> (팀장 외 가나다순)
 			<ol>
 				<table>
-					<tr> <td> 이승용 </td> <td> 언어인지과학과 </td> <td> 팀장 </td> <td> 프로젝트 기획 전반, UX 설계 </td> </tr>
+					<tr> <td> 이승용 </td> <td> 언어인지과학과 </td> <td> 팀장 </td> <td> 프로젝트 기획 전반, UX 설계, HTML파트 코딩 </td> </tr>
 					<tr> <td> 공예진 </td> <td> 브라질학과 </td> <td> - </td> <td> 백엔드 및 프론트엔드, 개발 총괄 </td> </tr>
-					<tr> <td> 이하영 </td> <td> 체코슬로바키아어과 </td> <td> - </td> <td> 프론트엔드 </td> </tr>
-					<tr> <td> 정민서 </td> <td> GBT학부 </td> <td> - </td> <td> 백엔드 </td> </tr>
+					<tr> <td> 이하영 </td> <td> 체코슬로바키아어과 </td> <td> - </td> <td> 프론트엔드(Flutter) </td> </tr>
+					<tr> <td> 정민서 </td> <td> GBT학부 </td> <td> - </td> <td> 백엔드(Spring, MySQL) </td> </tr>
 				</table>
 			</ol>
 		</li>
