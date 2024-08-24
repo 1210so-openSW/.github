@@ -70,15 +70,13 @@
 <p>
 	<ol>
 		<li> 한국외국어대학교 Software&AI를 이중전공하는 학생 4명으로 구성</li>
-		<li> <b>구성인원</b> (팀장 외 가나다순)
-			<ol>
+		<li> <b>구성인원</b> (팀장 외 가나다순) <br>
 				<table>
-					<tr> <td> 이승용 </td> <td> 언어인지과학과 </td> <td> 팀장 </td> <td> 프로젝트 기획 전반, UX 설계, HTML파트 코딩 </td> </tr>
-					<tr> <td> 공예진 </td> <td> 브라질학과 </td> <td> - </td> <td> 백엔드 및 프론트엔드, 개발 총괄 </td> </tr>
-					<tr> <td> 이하영 </td> <td> 체코슬로바키아어과 </td> <td> - </td> <td> 프론트엔드(Flutter) </td> </tr>
-					<tr> <td> 정민서 </td> <td> GBT학부 </td> <td> - </td> <td> 백엔드(Spring, MySQL) </td> </tr>
+					<tr> <td> <b>이승용</b> </td> <td> 언어인지과학과 </td> <td> 팀장 </td> <td> 프로젝트 기획 전반, UX 설계, HTML파트 코딩 </td> </tr>
+					<tr> <td> <b>공예진</b> </td> <td> 브라질학과 </td> <td> - </td> <td> 백엔드 및 프론트엔드, 개발 총괄 </td> </tr>
+					<tr> <td> <b>이하영</b> </td> <td> 체코슬로바키아어과 </td> <td> - </td> <td> 프론트엔드(Flutter) </td> </tr>
+					<tr> <td> <b>정민서</b> </td> <td> GBT학부 </td> <td> - </td> <td> 백엔드(Spring, MySQL) </td> </tr>
 				</table>
-			</ol>
 		</li>
 	</ol>
 </p>
