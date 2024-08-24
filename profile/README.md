@@ -1,6 +1,7 @@
 <body>
 	<img src="readMeHeader_2.png" alt="1, 2, 3처럼 쉬운 이력서 만들기. 12쉽소!">
-	
+<br>
+<br>
 <h2> 서비스 개요 </h2>
 <p><ul>
 	<li><b>“1, 2, 3처럼 쉬운 이력서 만들기"를 모토로, 디지털 취약계층을 대상으로 한 이력서 생성 서비스. </b></li>
@@ -11,7 +12,6 @@
 <h3> 시연 영상 </h3>
 
 [![작동 영상](http://img.youtube.com/vi/sDKRUIduR88/0.jpg)](https://www.youtube.com/watch?v=sDKRUIduR88)
-
 <h3> 서비스 기획 동기 </h3>
 <p>
 	<ol>
@@ -44,10 +44,11 @@
 		</ol>
 	</ol>
 </p>
+<br>
+<br>
+<h2> 개발 진행 </h2>
 
-<h2> 기술적 구조 </h2>
-
-<h3> 구성 </h3>
+<h3> 기술적 구조 </h3>
 <p>
 	<ul>
 		<li> <b>프론트엔드</b> : Flutter </li>
@@ -56,6 +57,15 @@
 			<li> 서버 : mySQL </li> </ol>
 		</li>
 	</ul>
+</p>
+
+<h3> 관련 산출물 </h3>
+<p>
+	<ol>
+		<li> <b> User Flow </b> : </li>
+		<li> <b> Wireframe </b> : </li>
+		<li> <b> FRD </b> </li>
+	</ol>
 </p>
 
 </body>
