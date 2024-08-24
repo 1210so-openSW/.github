@@ -79,8 +79,10 @@
 <h4 id="documents"> 산출물 </h3>
 <p>
 	<ol>
-		<li> <b> <a href="https://www.figma.com/design/KkZ2lSWDFk2kUNPaW08VKe/%EC%9D%B4%EB%A0%A5%EC%84%9C-%2F-Flow-Chart?node-id=1-223&t=BXzbot8PLdQ2gWqF-1"> User Flow </a> </b> </li>
-		<li> <b> <a href="https://www.figma.com/design/v0zkPv187KX5iAtcJvVVM6/12%EC%89%BD%EC%86%8C?node-id=0-1&t=5BL4KGdNzo9ESjE3-1"> UI Wireframe </a> </b> </li>
+		<li> <img src="UserFlow.png" width="50%"> <br> 
+			<b> <a href="https://www.figma.com/design/KkZ2lSWDFk2kUNPaW08VKe/%EC%9D%B4%EB%A0%A5%EC%84%9C-%2F-Flow-Chart?node-id=1-223&t=BXzbot8PLdQ2gWqF-1"> User Flow </a> </b> </li>
+		<li> <img src="WireFrame.png" width="50%"> <br> 
+			<b> <a href="https://www.figma.com/design/v0zkPv187KX5iAtcJvVVM6/12%EC%89%BD%EC%86%8C?node-id=0-1&t=5BL4KGdNzo9ESjE3-1"> UI Wireframe </a> </b> </li>
 		<li> <b> FRD </b> </li>
 	</ol>
 </p>
