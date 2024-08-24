@@ -68,10 +68,10 @@
 <h4 id="structure"> 기술적 구조 </h4>
 <p>
 	<ul>
-		<li> <b>프론트엔드</b> : Flutter </li>
+		<li> <b>프론트엔드</b> : <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> </li> 
 		<li> <b>백엔드</b> <ol> 
-			<li> 코드 : Spring </li>
-			<li> 서버 : mySQL </li> </ol>
+			<li> 코드 : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> </li>
+			<li> 서버 : <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> </li> </ol>
 		</li>
 	</ul>
 </p>
