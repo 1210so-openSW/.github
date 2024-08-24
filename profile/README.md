@@ -45,4 +45,17 @@
 	</ol>
 </p>
 
+<h2> 기술적 구조 </h2>
+
+<h3> 구성 </h3>
+<p>
+	<ul>
+		<li> <b>프론트엔드</b> : Flutter </li>
+		<li> <b>백엔드</b> <ol> 
+			<li> 코드 : Spring </li>
+			<li> 서버 : mySQL </li> </ol>
+		</li>
+	</ul>
+</p>
+
 </body>
