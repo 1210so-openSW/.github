@@ -1,4 +1,4 @@
-<body>
+<img width="658" alt="image" src="https://github.com/user-attachments/assets/2b605fb4-0999-4114-b112-4e068e800793"><body>
 	<img src="readMeHeader_2.png" alt="1, 2, 3처럼 쉬운 이력서 만들기. 12쉽소!">
 <br>
 <br>
@@ -60,6 +60,30 @@
 			<li> <b>정민서</b> : GBT학부, 백엔드 개발 </li>
 		</ol>
 	</ol>
+</p>
+<br>
+<br>
+<h3 id="features"> 기능 </h3>
+<h4 id="keyfeatures"> 핵심 기능 </h4>
+<img src="ResumePage.png" width="50%">
+<p>
+	<ul>
+		<li>대화형 UI를 통해 이용자의 정보를 제공 받아 이력서를 생성 <ul>
+			<li> 사용자의 정보를 기반으로 자기소개까지 AI를 통해 자동 생성 </li>
+			<li> 기생성된 모바일/A4 출력 HTML 템플릿에 맞춰 입력받은 정보를 자동으로 채워 넣어 출력 </li> </li> </ul>
+		<li>쉽고 빠른 공유 기능 제공 <ul>
+			<li> 생성된 이력서 페이지는 카카오톡 등으로 쉽고 빠르게 공유 가능 </li>
+			<li> 혹은 사용자에 따라 pdf로 다운 받아 바로 출력할 수 있도록 파일 제공 </li>
+			<li> 모바일과 출력 환경에 맞는 두개의 템플릿 제공 </li> </li> <ul>
+		</li>
+	</ul>
+</p>
+<h4 id="addfeatures">추가 구현 목표 </h4>
+<p>
+	<ul>
+		<li> 생성된 이력서 정보를 기반으로 웹 크롤링을 실행, 사용자에게 적합한 일자리를 자동으로 추천 </li>
+		<li> 노인 일자리가 필요한 사용자와 구직자를 편리하게 매칭할 수 있는 서비스로 발전 </li>
+	</ul>
 </p>
 <br>
 <br>
