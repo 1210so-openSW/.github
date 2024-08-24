@@ -6,14 +6,14 @@
 	<h2>목차</h2>
 	<ol>
 		<li><a href="#overview">서비스 개요</a> <ol>
-			<li><a href="#demovideo">시연 영상</a></li>
-			<li><a href="#target">타겟 사용자</a></li>
-			<li><a href="#members">구성 인원</a></li>
+				<li><a href="#demovideo">시연 영상</a></li>
+				<li><a href="#target">타겟 사용자</a></li>
+				<li><a href="#members">구성 인원</a></li>
 			</ol>
 		</li>
 		<li><a href="develop">개발 진행</a> <ol>
-			<li><a href="#structure">기술적 구조</a></li>
-			<li><a href="#documents">산출물</a></li>
+				<li><a href="#structure">기술적 구조</a></li>
+				<li><a href="#documents">산출물</a></li>
 			</ol>
 		</li>
 	</ol>
