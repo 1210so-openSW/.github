@@ -93,6 +93,8 @@
 			<ul>
 				<li> 사용자의 정보를 기반으로 자기소개까지 AI를 통해 자동 생성 </li>
 				<li> 기생성된 모바일/A4 출력 HTML 템플릿에 맞춰 입력받은 정보를 자동으로 채워 넣어 출력 </li>
+				<li> <a href="https://1210so.github.io/resumeMobileHTML/resume_1_1717997428561.html"> A4 출력용 예시 페이지 </a> </li>
+				<li> <a href="https://1210so.github.io/resumeMobileHTML/emptyResume_1_1717959473281.html"> 모바일 공유용 예시 페이지 </a> </li>
 			</ul>
 		</li>
 		<li>쉽고 빠른 공유 기능 제공
@@ -157,7 +159,7 @@
 	</ol>
 </p>
 
-<h2 id="opensoure"> 오픈소스 프로젝트로서의 12쉽소 </h2>
+<h2 id="opensource"> 오픈소스 프로젝트로서의 12쉽소 </h2>
 <h3 id="possibility"> 도입 및 활용 가능성 </h3>
 <p>
 	<ul>
