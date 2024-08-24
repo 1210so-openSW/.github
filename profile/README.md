@@ -1,5 +1,5 @@
 <body>
-	<img src="readMeHeader.png" alt="1, 2, 3처럼 쉬운 이력서 만들기. 12쉽소!">
+	<img src="readMeHeader_2.png" alt="1, 2, 3처럼 쉬운 이력서 만들기. 12쉽소!">
 	
 <h2> 서비스 개요 </h2>
 <p><ul>
