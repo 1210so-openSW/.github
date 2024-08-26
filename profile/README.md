@@ -110,6 +110,7 @@
 <h3 id="addfeatures">추가 구현 목표 </h3>
 <p>
 	<ul>
+		<li> 오픈소스 프로젝트로서 필수적인 보안 요소 확충 </li>
 		<li> 생성된 이력서 정보를 기반으로 웹 크롤링을 실행, 사용자에게 적합한 일자리를 자동으로 추천 </li>
 		<li> 노인 일자리가 필요한 사용자와 구직자를 편리하게 매칭할 수 있는 서비스로 발전 </li>
 		<li> 태블릿과 프린터를 결합한 키오스크 형태의 기기를 통해 공공기관 등에 배치 가능할 수 있도록 프로그래밍 </li>
@@ -126,8 +127,8 @@
 		<li> <b>프론트엔드</b> : <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> </li> 
 		<li> <b>백엔드</b>
 			<ol> 
-				<li> 코드 : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> </li>
-				<li> 서버 : <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> </li>
+				<li> 서버 : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> </li>
+				<li> DB : <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> (추후 DB 구현 예정) </li>
 			</ol>
 		</li>
 	</ul>
